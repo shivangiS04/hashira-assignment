@@ -14,7 +14,6 @@ The program uses the following methods to reconstruct the polynomial and find th
 
 ---
 
-## Project Structure
 ├── Main.java              # Main implementation with all five methods
 ├── input.json             # Sample test case 1 (n=4, k=3)
 ├── testcase2.json         # Sample test case 2 (n=10, k=7)
