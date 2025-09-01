@@ -12,15 +12,6 @@ The program uses the following methods to reconstruct the polynomial and find th
 4.  **LU Decomposition**: A matrix factorization technique known for numerical stability.
 5.  **Barycentric Interpolation**: A numerically stable and efficient alternative to Lagrange interpolation for multiple evaluations.
 
----
-
-├── Main.java              # Main implementation with all five methods
-├── input.json             # Sample test case 1 (n=4, k=3)
-├── testcase2.json         # Sample test case 2 (n=10, k=7)
-├── lib/
-│   └── json-20230227.jar  # JSON parsing library
-└── README.md              # This file
-
 ## Setup Instructions
 
 ### Prerequisites
